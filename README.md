@@ -9,18 +9,18 @@ Hier finden Sie alle täglichen Übungen, unterteilt in Anfänger, Fortgeschritt
 
 | Niveau | Notebook ansehen | In Colab öffnen |
 |---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Fortgeschrittene.ipynb) |
+| **Anfaenger** | [Anfaenger.ipynb](./01_Neural_Network_Basics/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](./01_Neural_Network_Basics/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](./01_Neural_Network_Basics/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/01_Neural_Network_Basics/notebooks/Fortgeschrittene.ipynb) |
 
 ---
 ### 📅 Day 2: Perceptron Implementation
 
 | Niveau | Notebook ansehen | In Colab öffnen |
 |---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Fortgeschrittene.ipynb) |
+| **Anfaenger** | [Anfaenger.ipynb](./02_Perceptron_Implementation/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](./02_Perceptron_Implementation/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](./02_Perceptron_Implementation/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/02_Perceptron_Implementation/notebooks/Fortgeschrittene.ipynb) |
 
 ---
 
@@ -28,9 +28,9 @@ Hier finden Sie alle täglichen Übungen, unterteilt in Anfänger, Fortgeschritt
 
 | Niveau | Notebook ansehen | In Colab öffnen |
 |---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) |
+| **Anfaenger** | [Anfaenger.ipynb](./03_Multi_Layer_Perceptron/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](./03_Multi_Layer_Perceptron/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](./03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) |
 
 ---
 
@@ -38,8 +38,8 @@ Hier finden Sie alle täglichen Übungen, unterteilt in Anfänger, Fortgeschritt
 
 | Niveau | Notebook ansehen | In Colab öffnen |
 |---|---|---|
-| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) |
-| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) |
-| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) |
+| **Anfaenger** | [Anfaenger.ipynb](./Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](./Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](./Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) |
 
 ---
