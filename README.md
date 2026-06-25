@@ -33,3 +33,13 @@ Hier finden Sie alle täglichen Übungen, unterteilt in Anfänger, Fortgeschritt
 | **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/03_Multi_Layer_Perceptron/notebooks/Fortgeschrittene.ipynb) |
 
 ---
+
+### 📅 Day 4: Aktivierungsfunktionen
+
+| Niveau | Notebook ansehen | In Colab öffnen |
+|---|---|---|
+| **Anfaenger** | [Anfaenger.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](https://github.com/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_04_Aktivierungsfunktionen/notebooks/Fortgeschrittene.ipynb) |
+
+---
