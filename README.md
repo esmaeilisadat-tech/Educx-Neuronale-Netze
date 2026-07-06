@@ -65,3 +65,13 @@ Hier finden Sie alle täglichen Übungen, unterteilt in Anfänger, Fortgeschritt
 
 ---
 
+### 📅 Day 7: Convolutional Neural Networks (CNN)
+
+| Niveau | Notebook ansehen | In Colab öffnen |
+|---|---|---|
+| **Anfaenger** | [Anfaenger.ipynb](./Tag_07_CNN/notebooks/Anfaenger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_07_CNN/notebooks/Anfaenger.ipynb) |
+| **Experte** | [Experte.ipynb](./Tag_07_CNN/notebooks/Experte.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_07_CNN/notebooks/Experte.ipynb) |
+| **Fortgeschrittene** | [Fortgeschrittene.ipynb](./Tag_07_CNN/notebooks/Fortgeschrittene.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esmaeilisadat-tech/Educx-Neuronale-Netze/blob/main/Tag_07_CNN/notebooks/Fortgeschrittene.ipynb) |
+
+---
+
